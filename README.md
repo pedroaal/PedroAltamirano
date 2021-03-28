@@ -1,0 +1,1 @@
+Information technology (IT) student at Yachay Tech, with a focus on data science. Currently a project developer for a startup, with the aim of becoming a project manager. In the area in which I have achieved the greatest development is the backend, in addition to IT support.
