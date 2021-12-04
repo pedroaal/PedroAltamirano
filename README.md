@@ -20,6 +20,8 @@ Information technology (IT) student at Yachay Tech, with a focus on data science
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
+![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)
+
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
@@ -35,15 +37,14 @@ Information technology (IT) student at Yachay Tech, with a focus on data science
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 
-
 ### Learning
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql)
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=Strapi)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss)
 
-![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=AmazonAWS)
 
 👯‍♀️ I'm looking to collaborate on...
