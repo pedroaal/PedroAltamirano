@@ -25,7 +25,7 @@ Information technology (IT) undergraduate, with a focus on data science. Current
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
-![React Native](https://reactnative.dev/)
+![React Native](https://img.shields.io/badge/-GCP-000?&logo=ReactNative)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
@@ -49,8 +49,7 @@ Information technology (IT) undergraduate, with a focus on data science. Current
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=AmazonAWS)
 
 ### Interests
-Business inteligence
-Data Science
-AI
-AR and VR
-Smart Contracts and web 3.0
+- Business inteligence
+- Data Science, AI, Machine learning
+- AR and VR
+- Smart Contracts and web 3.0
