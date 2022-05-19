@@ -25,7 +25,7 @@ Information technology (IT) undergraduate, with a focus on data science. Current
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next](https://img.shields.io/badge/-Next-000?&logo=Next.js)
-![React Native](https://img.shields.io/badge/-GCP-000?&logo=ReactNative)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
